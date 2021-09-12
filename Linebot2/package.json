@@ -1,0 +1,19 @@
+{
+  "name": "linebot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "linebot": "^1.6.1",
+    "log4js": "^6.3.0",
+    "mlogger": "^1.1.2",
+    "node-schedule": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
